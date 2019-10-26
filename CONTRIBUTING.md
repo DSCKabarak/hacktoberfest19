@@ -67,6 +67,10 @@ dbms.print_line("Pl");
 
 print("werokamu")   
 
+dbms.print_line("Pl");   
+
+system.out.println("hello walter")   
+
 dbms.print_line("Pl");     
 
 System.out.println("Hello world")    
