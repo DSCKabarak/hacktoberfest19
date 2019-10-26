@@ -22,7 +22,7 @@ dbms.print_line("Pl");
 
 system.out.println(" Food");   
 
-Isale : console.log("Hello world");   
+console.log("Hello world");   
 
 print("Hello world ")   
 
@@ -73,6 +73,8 @@ dbms.print_line("Pl");
 console.log("Hello world")   
 
 dbms.print_line("Pl");   
+
+print("hello Kevin ")   
 
 system.out.println("hello walter")   
 
