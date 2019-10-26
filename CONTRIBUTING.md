@@ -67,4 +67,8 @@ dbms.print_line("Pl");
 
 print("werokamu")   
 
+dbms.print_line("Pl");   
+
+system.out.println(" Food");   
+
 system.out.println(" hello world");     
