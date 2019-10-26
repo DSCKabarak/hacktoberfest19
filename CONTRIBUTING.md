@@ -1,4 +1,7 @@
 
+Isale : console.log("Hello world   
+print("Hello world ")   
+okero patrick: console.log("hello world");   
 print("werokamu")     
 dbms.print_line("Pl");  
 print("Hello world ")   
@@ -10,3 +13,4 @@ console.log("hello world");
 <p>Hello World</p>   
 print("werokamu")   
 dbms.print_line("Pl");   
+
