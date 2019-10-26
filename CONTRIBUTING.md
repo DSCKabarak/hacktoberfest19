@@ -72,7 +72,9 @@ dbms.print_line("Pl");
 
 print("werokamu")     
 
-system.out.println(" hello world");   
+system.out.println(" hello world");    
+
+System.Console.WriteLine("Hello Haorn");   
 
 alert("hello world");   
 
@@ -99,3 +101,4 @@ printf("Yes Bana, parte after parte");
 system.out.println(" Food");   
 
 system.out.println(" hello world");       
+
