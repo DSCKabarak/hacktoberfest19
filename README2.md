@@ -16,3 +16,7 @@ fun helloWorld<String>{
 
 
 printf("Neighbours wa kipchoge");
+
+
+
+>>>print("hello world")
