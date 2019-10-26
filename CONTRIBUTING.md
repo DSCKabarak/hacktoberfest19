@@ -14,4 +14,5 @@ console.log("hello world");
 print("werokamu")   
 dbms.print_line("Pl");   
 print("werokamu")   
-system.out.println(" hello world");   
+system.out.println(" hello world"); 
+alert("hello world");
