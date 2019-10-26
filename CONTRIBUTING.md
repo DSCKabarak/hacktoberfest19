@@ -1,6 +1,16 @@
 
-Isale : console.log("Hello world");    
+console.log("Hello world");   
 
+print("Hello world ")   
+
+print("werokamu")   
+
+<html> 
+ <body>
+   Hello World
+   </body>
+  </html>   
+  
 print("Hello world ")   
 
 console.log("hello world");    
