@@ -1,3 +1,6 @@
+
+print("Hello world ")   
+sydtem.out.println("Habari Dunia");   
 Isale : console.log("Hello world");   
 print("Hello world ")   
 println('Hello World')   
