@@ -88,4 +88,7 @@ printf("Yes Bana, parte after parte");
 
 system.out.println(" Food");   
 
-system.out.println(" hello world");       
+system.out.println(" hello world"); 
+cout<<"yeeees bana";
+printf("hello world")
+<P>its time to shine</p>
