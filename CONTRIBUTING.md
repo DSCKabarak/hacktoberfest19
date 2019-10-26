@@ -1,6 +1,4 @@
 
-print("werokamu")     
-dbms.print_line("Pl");  
 print("Hello world ")   
 sydtem.out.println("Habari Dunia");   
 Isale : console.log("Hello world");   
@@ -10,3 +8,5 @@ console.log("hello world");
 <p>Hello World</p>   
 print("werokamu")   
 dbms.print_line("Pl");   
+// java 
+system.out.println("hello walter")
