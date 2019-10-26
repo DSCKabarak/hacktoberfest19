@@ -70,6 +70,12 @@ print("werokamu")
 
 dbms.print_line("Pl");   
 
+print("werokamu")   
+
+system.out.println(" hello world");  
+
+printf("Hellow world");   
+
 console.log("Hello world")   
 
 dbms.print_line("Pl");   
