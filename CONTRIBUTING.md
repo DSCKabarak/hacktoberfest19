@@ -1,6 +1,16 @@
 Isale : console.log("Hello world");
 print("Hello world ")
-console.log("hello world");
-<p>Hello World</p>
+
+
 print("werokamu")
-dbms.print_line("Pl");
+
+system.out.println(" hello world");
+
+if(speed<4){
+    status=WALKING;
+} else if(speed<12){
+    status=RUNNING;
+} else {
+    status=BIKING;
+}
+Now consider what
