@@ -15,3 +15,4 @@ print("werokamu")
 dbms.print_line("Pl");   
 print("werokamu")   
 system.out.println(" hello world");   
+System.Console.WriteLine("Hello Haorn");
