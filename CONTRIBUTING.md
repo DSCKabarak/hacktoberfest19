@@ -1,7 +1,7 @@
-
+fmt.Println("Hello World")   
 Isale : console.log("Hello world   
 print("Hello world ")   
-okero patrick: console.log("hello world");   
+okero patrick: console.log("hello world");     
 print("werokamu")     
 dbms.print_line("Pl");  
 print("Hello world ")   
