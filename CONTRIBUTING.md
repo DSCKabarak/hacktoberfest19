@@ -118,4 +118,6 @@ system.out.println(" hello world");
 
 cout<<"yeeees bana";   
 
-system.out.println(" hello world");       
+system.out.println(" hello world");    
+
+cout<<"Hello food"
