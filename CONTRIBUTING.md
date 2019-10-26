@@ -1,9 +1,7 @@
 
-Isale : console.log("Hello world");   
+console.log("Hello world");   
 
 print("Hello world ")   
-
-Isale : console.log("Hello world");    
 
 print("werokamu")   
 
