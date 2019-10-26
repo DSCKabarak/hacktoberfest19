@@ -70,7 +70,11 @@ print("werokamu")
 
 dbms.print_line("Pl");   
 
-print("werokamu")   
+print("werokamu")     
+
+system.out.println(" hello world");   
+
+alert("hello world");   
 
 system.out.println(" hello world");  
 
