@@ -9,3 +9,6 @@ class Program {
    }
 }
 ```
+
+
+echo("Hello world");
