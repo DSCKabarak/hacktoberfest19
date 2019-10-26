@@ -69,6 +69,8 @@ print("werokamu")
 
 dbms.print_line("Pl");   
 
+printf("Yes Bana, parte after parte");   
+
 system.out.println(" Food");   
 
 system.out.println(" hello world");     
