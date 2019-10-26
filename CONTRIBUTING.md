@@ -106,6 +106,14 @@ cout<<"yeeees bana";
 
 printf("hello world")   
 
+<P>its time to shine</p>   
+
+system.out.println(" hello world");    
+
+cout<<"yeeees bana";   
+
+printf("hello world")   
+
 system.out.println(" hello world");    
 
 cout<<"yeeees bana";   
