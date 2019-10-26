@@ -67,10 +67,12 @@ dbms.print_line("Pl");
 
 print("werokamu")   
 
-dbms.print_line("Pl");   
+dbms.print_line("Pl");     
+
+System.out.println("Hello world")    
 
 printf("Yes Bana, parte after parte");   
 
 system.out.println(" Food");   
 
-system.out.println(" hello world");     
+system.out.println(" hello world");      
