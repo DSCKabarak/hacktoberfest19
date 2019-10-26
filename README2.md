@@ -1,22 +1,8 @@
-# hacktoberHello 
-#Hello peeps, today we are doing hackctoberfest @dsckabu. 
-#Opensource is sooo coool?...
+printf("hello world");    
 
-```c#
-class Program {
-   public static void Main(String[] args) {
-      System.Console.WriteLine("Hello Haron");
-   }
-}
-##kotlin##
-fun helloWorld<String>{
-   print(hello world) as String
-}
-```
+echo("Hello world");   
 
+printf("Neighbours wa kipchoge");   
 
-printf("Neighbours wa kipchoge");
+print("hello world")   
 
-
-
->>>print("hello world")
