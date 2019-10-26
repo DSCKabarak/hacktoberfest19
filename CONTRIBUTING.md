@@ -1,4 +1,3 @@
-
 console.log("Hello world");   
 
 print("Hello world ")   
@@ -39,9 +38,11 @@ system.out.println(" hello world");
 
 fmt.Println("Hello World")   
 
-Isale : console.log("Hello world   
+console.log("Hello world")   
 
 print("Hello world ")   
+
+console.log("hello world");   
 
 okero patrick: console.log("hello world");    
 
@@ -66,6 +67,10 @@ print("werokamu")
 dbms.print_line("Pl");  
 
 print("werokamu")   
+
+dbms.print_line("Pl");   
+
+console.log("Hello world")   
 
 dbms.print_line("Pl");   
 
