@@ -15,3 +15,5 @@ print("werokamu")
 dbms.print_line("Pl");   
 print("werokamu")   
 system.out.println(" hello world");   
+printf("Hellow world");
+
