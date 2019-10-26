@@ -1,4 +1,6 @@
 
+print("werokamu")     
+dbms.print_line("Pl");  
 print("Hello world ")   
 sydtem.out.println("Habari Dunia");   
 Isale : console.log("Hello world");   
