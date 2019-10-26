@@ -74,6 +74,8 @@ console.log("Hello world")
 
 dbms.print_line("Pl");   
 
+printf("hello DSC Kabarak")   
+
 print("hello Kevin ")   
 
 system.out.println("hello walter")   
@@ -86,4 +88,4 @@ printf("Yes Bana, parte after parte");
 
 system.out.println(" Food");   
 
-system.out.println(" hello world");      
+system.out.println(" hello world");       
