@@ -120,4 +120,16 @@ cout<<"yeeees bana";
 
 system.out.println(" hello world");    
 
-cout<<"Hello food"
+cout<<"Hello food"    
+
+system.out.println(" hello world");   
+
+printf("Hello World\n")    
+
+system.out.println(" hello world");      
+
+print("Eryco Homz")   
+
+system.out.println(" hello world");      
+
+cout<<"Hello World"   
