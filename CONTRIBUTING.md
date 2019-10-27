@@ -132,4 +132,6 @@ print("Eryco Homz")
 
 system.out.println(" hello world");      
 
-cout<<"Hello World"   
+cout<<"Hello World" 
+
+print("Hello World")
