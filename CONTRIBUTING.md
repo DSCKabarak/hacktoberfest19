@@ -133,3 +133,5 @@ print("Eryco Homz")
 system.out.println(" hello world");      
 
 cout<<"Hello World"   
+
+console.log("Hello world!");
