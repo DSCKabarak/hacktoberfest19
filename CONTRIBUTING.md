@@ -70,18 +70,6 @@ print("werokamu")
 
 dbms.print_line("Pl");   
 
-print("werokamu")     
-
-system.out.println(" hello world");    
-
-System.Console.WriteLine("Hello Haorn");   
-
-alert("hello world");   
-
-system.out.println(" hello world");  
-
-printf("Hellow world");   
-
 console.log("Hello world")   
 
 dbms.print_line("Pl");   
@@ -98,7 +86,15 @@ System.out.println("Hello world")
 
 printf("Yes Bana, parte after parte");   
 
-system.out.println(" Food");   
+system.out.println(" Food");    
+
+system.out.println(" hello world");   
+
+cout<<"yeeees bana";   
+
+printf("hello world");    
+
+<p>its time to shine</p>    
 
 system.out.println(" hello world");    
 
@@ -138,4 +134,4 @@ console.log("Hello world!");
 
 cout<<"Hello World"    
 
-print("Hello World")    
+print("Hello World")      
