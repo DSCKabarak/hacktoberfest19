@@ -144,7 +144,8 @@ cout<<"Hello World"
 
 print("Hello World")        
 
+echo "Hello World"    
+
 console.log("Hey here i come world!");    
 
 cout<<"hello"<<endl;   
-
