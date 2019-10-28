@@ -98,6 +98,14 @@ printf("hello world");
 
 system.out.println(" hello world");    
 
+cout<<"yeeees bana";     
+
+printf("hello world")   
+
+<p>its time to shine</p>    
+
+system.out.println(" hello world");       
+
 cout<<"yeeees bana";   
 
 printf("hello world")   
@@ -112,9 +120,9 @@ printf("hello world")
 
 system.out.println(" hello world");    
 
-cout<<"yeeees bana";   
+cout<<"yeeees bana";     
 
-system.out.println(" hello world");    
+system.out.println(" hello world");          
 
 cout<<"Hello food"    
 
@@ -134,4 +142,4 @@ console.log("Hello world!");
 
 cout<<"Hello World"    
 
-print("Hello World")      
+print("Hello World")        
