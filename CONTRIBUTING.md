@@ -86,9 +86,52 @@ System.out.println("Hello world")
 
 printf("Yes Bana, parte after parte");   
 
-system.out.println(" Food");   
+system.out.println(" Food");    
 
-system.out.println(" hello world"); 
-cout<<"yeeees bana";
-printf("hello world");
-<p>its time to shine</p>
+system.out.println(" hello world");   
+
+cout<<"yeeees bana";   
+
+printf("hello world");    
+
+<p>its time to shine</p>    
+
+system.out.println(" hello world");    
+
+cout<<"yeeees bana";   
+
+printf("hello world")   
+
+<P>its time to shine</p>   
+
+system.out.println(" hello world");    
+
+cout<<"yeeees bana";   
+
+printf("hello world")   
+
+system.out.println(" hello world");    
+
+cout<<"yeeees bana";   
+
+system.out.println(" hello world");    
+
+cout<<"Hello food"    
+
+system.out.println(" hello world");   
+
+printf("Hello World\n")    
+
+system.out.println(" hello world");      
+
+print("Eryco Homz")   
+
+system.out.println(" hello world");      
+
+cout<<"Hello World"   
+
+console.log("Hello world!");   
+
+cout<<"Hello World"    
+
+print("Hello World")      
