@@ -143,3 +143,4 @@ console.log("Hello world!");
 cout<<"Hello World"    
 
 print("Hello World")        
+cout<<"hello"<<endl;
