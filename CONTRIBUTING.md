@@ -134,4 +134,8 @@ system.out.println(" hello world");
 
 cout<<"Hello World"   
 
-console.log("Hello world!");
+console.log("Hello world!");   
+
+cout<<"Hello World"    
+
+print("Hello World")    
