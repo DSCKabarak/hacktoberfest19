@@ -149,3 +149,5 @@ echo "Hello World"
 console.log("Hey here i come world!");    
 
 cout<<"hello"<<endl;   
+
+dbms.print_line("Pl");
