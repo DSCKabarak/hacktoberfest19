@@ -149,3 +149,7 @@ echo "Hello World"
 console.log("Hey here i come world!");    
 
 cout<<"hello"<<endl;   
+
+// Hello World in Go Lang
+
+fmt.Println("hello world")
