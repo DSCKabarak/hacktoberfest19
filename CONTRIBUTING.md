@@ -149,3 +149,9 @@ echo "Hello World"
 console.log("Hey here i come world!");    
 
 cout<<"hello"<<endl;   
+
+// Hello World in Bash 
+
+#!/bin/bash
+STR="Hello World!"
+echo $STR
