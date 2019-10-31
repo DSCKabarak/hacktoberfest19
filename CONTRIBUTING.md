@@ -149,3 +149,8 @@ echo "Hello World"
 console.log("Hey here i come world!");    
 
 cout<<"hello"<<endl;   
+
+// In BASIC Hello World program can be written as:
+
+10 PRINT "Hello, World!"
+20 END
