@@ -149,3 +149,7 @@ echo "Hello World"
 console.log("Hey here i come world!");    
 
 cout<<"hello"<<endl;   
+
+// In C# Hello World Can be written like this
+
+Console.WriteLine("Hello World!"); 
