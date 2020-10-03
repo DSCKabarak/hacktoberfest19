@@ -17,10 +17,10 @@ A Open-Source Repo for HactoberFest-19
 ```
 #Hello World in Gibberish
 #Yes It's a language
-
-[Hello, world!
-]eo
- 
+int main()
+{
+  cout("hello word);
+}
 ```
 ## Create your first pull request :+1:
 
