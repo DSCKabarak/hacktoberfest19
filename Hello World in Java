@@ -1,0 +1,9 @@
+//Hello World in Java
+//Yes It's a language
+public class Hello
+{
+	public static void main(String[] args)
+	{
+		System.out.println("Hello World");
+	}
+}
