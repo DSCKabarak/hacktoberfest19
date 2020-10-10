@@ -2,15 +2,15 @@
 <html>
 <body>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:pink">
+<hr style="height:10px;border-width:0;color:gray;background-color:pink">
 <h1>Here we are</h1>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:orange"> 
+<hr style="height:5px;border-width:0;color:gray;background-color:orange"> 
 <?php
 echo "Hello World!";
 ?>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:blue">
+<hr style="height:10px;border-width:0;color:gray;background-color:blue">
 
 </body>
 </html>
