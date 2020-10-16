@@ -12,3 +12,13 @@ int main() {
    return 0;
 }  
 //another way to print hello world
+
+// Another Way Of Print Hello World 
+//Speciality - prints hellow world without semicolon
+#include <stdio.h>
+int main() {
+   // printf() displays the string inside quotation
+  if(printf("Hello, World!"))
+  return 0;
+   return 0;
+}  
