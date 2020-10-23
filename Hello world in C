@@ -12,3 +12,10 @@ int main() {
    return 0;
 }  
 //another way to print hello world
+
+
+#include<stdio.h>
+main()
+{
+printf("Hello World!");
+}
