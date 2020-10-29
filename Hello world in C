@@ -19,3 +19,9 @@ main()
 {
 printf("Hello World!");
 }
+//nother wyt to print hello world
+void main(){
+printf("hello");
+printf("world");
+getch();
+}
