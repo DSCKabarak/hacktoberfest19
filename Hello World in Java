@@ -1,9 +1,7 @@
-//Hello World in Java
-//Yes It's a language
-public class Hello
-{
-	public static void main(String[] args)
-	{
-		System.out.println("Hello World");
-	}
+#Hello World Program in Java my fav Language.
+
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");  
+    }
 }
